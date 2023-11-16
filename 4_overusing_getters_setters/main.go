@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// person struct has changeable Name field via export type
+// person store has changeable Name field via export type
 type person struct {
 	Name string
 }
