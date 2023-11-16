@@ -1,6 +1,6 @@
 package main
 
-import "mistakes/9_embedding/store"
+import "mistakes/10_embedding/store"
 
 func main() {
 	st := store.NewStore()
